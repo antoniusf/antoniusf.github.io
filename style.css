@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Annie Use Your Telescope";
+    src: url("https://meow.enterprises/assets/AnnieUseYourTelescope-Regular.ttf") format("truetype");
+}
+
+p {
+    font-family: "Annie Use Your Telescope";
+}
